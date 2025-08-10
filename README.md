@@ -1,7 +1,7 @@
-# Hi there, I'm TheekshamDulanjana! 👋
+# Hi there, I'm TheekshanaDulanjana! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=TheekshamDulanjana&color=blue&label=Profile+Views)](https://github.com/TheekshamDulanjana)
-[![GitHub Followers](https://img.shields.io/github/followers/TheekshamDulanjana?label=Followers&style=social)](https://github.com/TheekshamDulanjana)
+[![Profile Views](https://komarev.com/ghpvc/?username=TheekshanaDulanjana&color=blue&label=Profile+Views)](https://github.com/TheekshanaDulanjana)
+[![GitHub Followers](https://img.shields.io/github/followers/TheekshanaDulanjana?label=Followers&style=social)](https://github.com/TheekshanaDulanjana)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dulanjana21?style=social)](https://twitter.com/dulanjana21)
 
 🔭 Full-Stack Developer | UI/UX Enthusiast | Open Source Contributor
@@ -25,12 +25,12 @@
 
 ## 🌟 Featured Projects
 
-### [Personal Portfolio+](https://github.com/TheekshamDulanjana/Personal-Portfolio)
+### [Personal Portfolio+](https://github.com/TheekshanaDulanjana/Personal-Portfolio)
 🚀 Modern responsive portfolio built with React and Tailwind CSS  
-![Stars](https://img.shields.io/github/stars/TheekshamDulanjana/Personal-Portfolio?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/TheekshamDulanjana/Personal-Portfolio?color=blue&style=flat-square)
+![Stars](https://img.shields.io/github/stars/TheekshanaDulanjana/Personal-Portfolio?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/TheekshanaDulanjana/Personal-Portfolio?color=blue&style=flat-square)
 
-### [E-commerce Platform](https://github.com/TheekshamDulanjana/E-Commerce)
+### [E-commerce Platform](https://github.com/TheekshanaDulanjana/E-Commerce)
 🛒 Full-stack MERN e-commerce solution with payment integration  
 ![Tech](https://img.shields.io/badge/-MERN-9cf?style=flat-square)
 
@@ -39,15 +39,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheekshamDulanjana&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheekshamDulanjana&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshamDulanjana&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheekshanaDulanjana&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheekshanaDulanjana&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshanaDulanjana&layout=compact&theme=radical" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=TheekshamDulanjana&theme=radical&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TheekshanaDulanjana&theme=radical&no-frame=true&row=1&column=7)
 
 ---
 
@@ -59,7 +59,7 @@
 ---
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/Theekshamdulanjana)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/TheekshanaDulanjana)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/dulanjana21)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:theeksham.dulanjana@gmail.com)
 
