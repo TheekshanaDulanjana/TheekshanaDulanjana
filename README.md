@@ -95,7 +95,7 @@ Creative technologist blending design and development to build impactful digital
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge)](https://theekshanadulanjana.me)
 
 📞 **Phone:** +94 71 552 6761  
-📍 **Location:** Matara, Sri Lanka
+📍 **Location:** Colombo, Sri Lanka
 
 ---
 
