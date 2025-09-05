@@ -62,17 +62,6 @@ Creative technologist blending design and development to build impactful digital
   <img width="96%" src="https://activity-graph.herokuapp.com/graph?username=TheekshanaDulanjana&theme=react-dark&hide_border=true&area=true" />
 </div>
 
----
-
-## 🏅 Leadership & Achievements
-
-### 👨‍💻 Technical Leadership
-- **WebMaster** - IEEE Computer Society Student Branch Chapter KDU (2025)
-- **Design Team Lead** - CSSL GenZ Chaptr of KDU (2025)
-
-### 🎖️ Honors
-- Deputy Head Prefect - Board of Prefec, St. Thomas' College, Matara (2020)
-- Sergeant - Senior Cadet Platoon , St. Thomas' College, Matara (2020)
 
 ---
 
