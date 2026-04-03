@@ -1,213 +1,99 @@
-<!-- PROFILE HEADER -->
-
-<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Theekshana Dulanjana</span></h1>
-
-
-
-<p align="center">
-
-  🎓 <b>BSc (Hons) in Information Technology</b> | General Sir John Kotelawala Defence University <br>
-
-  💻 <b>Full-Stack Developer</b> | 🎨 <b>UI/UX Designer</b> | 📸 <b>Creative Technologist</b>
-
-</p>
-
-
-
-<p align="center">
-
-  <a href="https://komarev.com/ghpvc/?username=TheekshanaDulanjana">
-
-    <img src="https://komarev.com/ghpvc/?username=TheekshanaDulanjana&color=0066ff&style=flat&label=PROFILE+VIEWS" alt="Profile Views">
-
+<div align="center">
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> I'm <span style="color:#0078ff;">Theekshana Dulanjana</span></h1>
+  <p><b>BSc (Hons) in Information Technology @ General Sir John Kotelawala Defence University</b></p>
+  <p><b>Software Engineer | UI/UX Designer | Creative Technologist</b></p>
+  
+  <a href="https://github.com/TheekshanaDulanjana">
+    <img src="https://komarev.com/ghpvc/?username=TheekshanaDulanjana&color=0078ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
   </a>
-
   <a href="https://github.com/TheekshanaDulanjana?tab=followers">
-
-    <img src="https://img.shields.io/github/followers/TheekshanaDulanjana?label=FOLLOWERS&style=social" alt="GitHub Followers">
-
+    <img src="https://img.shields.io/github/followers/TheekshanaDulanjana?label=FOLLOWERS&style=flat-square&color=0078ff" alt="Followers" />
   </a>
-
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source Contributor">
-
-</p>
-
-
-
----
-
-
-
-## 🧭 About Me
-
-
-
-🚀 A creative technologist passionate about merging **design, technology, and human experience**.  
-
-With a strong foundation in both **frontend aesthetics** and **backend logic**, I strive to build impactful, accessible, and visually elegant digital experiences.
-
-
-
-💡 **Key Interests**
-
-- Human-Centered UI/UX Design  
-
-- Modern Web Application Development  
-
-- Digital Product Prototyping  
-
-- Visual Storytelling through Photography  
-
-
-
----
-
-
-
-## 🛠️ Tech Arsenal
-
-
-
-### 🎨 Design Tools
-
-![Figma](https://img.shields.io/badge/Figma-Expert-FF2D20?logo=figma)
-
-![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?logo=adobephotoshop)
-
-![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-FF9A00?logo=adobeillustrator)
-
-![UI/UX](https://img.shields.io/badge/UI/UX-Design-FF6F61?logo=uxdesign)
-
-
-
-### 💻 Development Stack
-
-![MERN](https://img.shields.io/badge/Stack-MERN-009688?logo=mongodb)
-
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?logo=react)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Pro-38B2AC?logo=tailwindcss)
-
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js)
-
-![Express](https://img.shields.io/badge/Express.js-Backend%20Framework-000000?logo=express)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb)
-
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python)
-
-
-
----
-
-
-
-## 📊 GitHub Analytics
-
-
-
-<div align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheekshanaDulanjana&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheekshanaDulanjana&theme=radical" />
-
 </div>
 
+<br />
 
+## 🧭 Professional Summary
+I am a creative technologist who bridges the gap between **high-end design** and **robust engineering**. I specialize in building responsive, high-performance web applications and architecting interactive prototype. Currently, I am applying my expertise as an **Intern UI/UX Engineer** at Glamer Media, focusing on user-centered workflows and scalable design systems.
+
+---
+
+## 🛠️ Tech & Design Arsenal
+<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 UI/UX & Creative Design</h3>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+      <ul>
+        <li><b>User Research:</b> Personas & Journey Mapping </li>
+        <li><b>Prototyping:</b> Low/High-Fidelity Interaction ]</li>
+        <li><b>Systems:</b> Reusable Component Libraries </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Software Engineering</h3>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <ul>
+        <li><b>Frontend:</b> Astro, Tailwind CSS, Vite </li>
+        <li><b>Backend:</b> MERN Stack & Python </li>
+        <li><b>Databases:</b> MongoDB, PostgreSQL, Firebase </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+<br />
+
+## 📊 Development Metrics
 
 <div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <b>Activity Breakdown</b><br />
+        <br />
+        <img src="https://raw.githubusercontent.com/TheekshanaDulanjana/TheekshanaDulanjana/main/image_2228ad.png" width="250px" alt="GitHub Contribution Radar" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <b>GitHub Productivity</b><br />
+        <br />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=TheekshanaDulanjana&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br />
 
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheekshanaDulanjana&theme=react-dark&hide_border=true&area=true" />
-
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheekshanaDulanjana&theme=react-dark&hide_border=true&area=true&color=0078ff" />
 </div>
 
-
-
----
-
-
-
-## 📚 Currently Exploring
-
-
-
-![User Research](https://img.shields.io/badge/User%20Research-UX%20Strategy-0078D7?style=flat&logo=researchgate)
-
-![Prototyping](https://img.shields.io/badge/Prototyping-Figma-F24E1E?style=flat&logo=figma)
-
-![Interaction Design](https://img.shields.io/badge/Interaction%20Design-Figma-F24E1E?style=flat&logo=figma)
-
-![Visual Design](https://img.shields.io/badge/Visual%20Design-Figma-F24E1E?style=flat&logo=figma)
-
-
+<br />
 
 ---
 
-
-
-## 🤝 Let's Connect
-
-
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/theekshanadulanjana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-
-  <a href="https://twitter.com/dulanjana21"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"></a>
-
-  <a href="https://www.instagram.com/dulan_jana_/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"></a>
-
-  <a href="https://www.facebook.com/theekshana.dulanjana"><img src="https://img.shields.io/badge/Facebook-Like-1877F2?style=for-the-badge&logo=facebook"></a>
-
-  <a href="mailto:theekshanadulanjana35@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"></a>
-
-  <a href="https://theekshanadulanjana.me"><img src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge"></a>
-
-</p>
-
-
-
----
-
-
-
-## 🌍 Contact Information
-
-
-
-📞 **Phone:** +94 71 552 6761  
-
-📍 **Location:** Colombo, Sri Lanka  
-
-
-
----
-
-
-
-## 🎨 Design Portfolio
-
-
-
-<p align="center">
-
-  <a href="https://behance.net/dulanjana">
-
-    <img src="https://img.shields.io/badge/Behance-View%20Portfolio-1769FF?style=for-the-badge&logo=behance">
-
-  </a>
-
-</p>
-
-
-
----
-
-
+## 🤝 Let's Collaborate
 
 <div align="center">
+  <a href="https://theekshanadulanjana.me"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://behance.net/dulanjana"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/theekshanadulanjana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:theekshanadulanjana35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-  <i>“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs</i>
+<br />
 
+<div align="center">
+  <i>“Design is not just what it looks like. Design is how it works.” — Steve Jobs</i>
+</div>
+
+<hr />
+
+<div align="center">
+  📍 Colombo, Sri Lanka | 📞 +94 71 552 6761 
 </div>
