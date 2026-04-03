@@ -3,7 +3,7 @@
   <p><b>BSc (Hons) in Information Technology @ General Sir John Kotelawala Defence University</b></p>
   <p><b>Full-Stack Developer | UI/UX Designer | Creative Technologist</b></p>
   
-  <a href="https://komarev.com/ghpvc/?username=TheekshanaDulanjana&color=0078ff&style=flat-square&label=PROFILE+VIEWS">
+  <a href="https://github.com/TheekshanaDulanjana">
     <img src="https://komarev.com/ghpvc/?username=TheekshanaDulanjana&color=0078ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
   </a>
   <a href="https://github.com/TheekshanaDulanjana?tab=followers">
@@ -24,26 +24,24 @@ I am a creative technologist who bridges the gap between **high-end design** and
   <tr>
     <td width="50%" valign="top">
       <h3>🎨 UI/UX & Creative Design</h3>
-      <p>I create user-centric designs with a focus on accessibility and modern aesthetics.</p>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
       <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
       <ul>
-        <li><b>Research:</b> User Personas & Journey Mapping</li>
-        <li><b>Design:</b> High-Fidelity Prototyping</li>
-        <li><b>Tools:</b> Design Systems & Component Libraries</li>
+        <li>User Research & Strategy</li>
+        <li>High-Fidelity Prototyping</li>
+        <li>Design Systems (Figma Expert)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>💻 Software Engineering</h3>
-      <p>I develop scalable applications using the MERN stack and modern web tools.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
       <ul>
-        <li><b>Frontend:</b> Vite, Astro, Next.js</li>
-        <li><b>Backend:</b> Express, MongoDB, Python</li>
-        <li><b>Logic:</b> Clean Code & System Architecture</li>
+        <li>Full-Stack MERN Development</li>
+        <li>Astro, Vite & Next.js</li>
+        <li>System Architecture & Logic</li>
       </ul>
     </td>
   </tr>
@@ -53,23 +51,27 @@ I am a creative technologist who bridges the gap between **high-end design** and
 
 ## 📊 Development Metrics
 
-<table width="100%">
-  <tr>
-    <td width="40%" align="center">
-      <b>Contribution Breakdown</b><br /><br />
-      <img src="https://i.ibb.co/L6v3547/image-2228ad.png" width="280px" alt="GitHub Contribution Radar" />
-    </td>
-    <td width="60%" valign="top">
-      <b>GitHub Productivity</b><br /><br />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=TheekshanaDulanjana&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <b>Activity Breakdown</b><br />
+        <br />
+        <img src="https://raw.githubusercontent.com/TheekshanaDulanjana/TheekshanaDulanjana/main/image_2228ad.png" width="250px" alt="GitHub Contribution Radar" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <b>GitHub Productivity</b><br />
+        <br />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=TheekshanaDulanjana&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheekshanaDulanjana&theme=react-dark&hide_border=true&area=true&color=0078ff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheekshanaDulanjana&theme=react-dark&hide_border=true&area=true&color=0078ff" />
 </div>
 
 <br />
